@@ -1,0 +1,873 @@
+{
+        "Players": {
+                "xRiver007": {
+                        "name": "xRiver007",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "true",
+                                "Top": "true"
+                        },
+                        "Verifications": {
+                                "Demons": ["75", "71", "81", "122"],
+                                "Platformers": ["39"],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": [
+                                        "75",
+                                        "33",
+                                        "8",
+                                        "64",
+                                        "2",
+                                        "81",
+                                        "71",
+                                        "3",
+                                        "6",
+                                        "59",
+                                        "14",
+                                        "16",
+                                        "88",
+                                        "90",
+                                        "91",
+                                        "93",
+                                        "95",
+                                        "122"
+                                ],
+                                "Platformers": ["39", "69"],
+                                "Challenges": [
+                                        "107", 
+                                        "136", 
+                                        "137", 
+                                        "141", 
+                                        "144", 
+                                        "147", 
+                                        "152", 
+                                        "154", 
+                                        "159", 
+                                        "162", 
+                                        "163", 
+                                        "164"
+                                ]
+                        }
+                },
+                "litlec": {
+                        "name": "litlec",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "true"
+                        },
+                        "Verifications": {
+                                "Demons": ["33", "3", "59"],
+                                "Platformers": ["69"],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["33", "3", "59"],
+                                "Platformers": ["69"],
+                                "Challenges": [""]
+                        }
+                },
+                "Xan": {
+                        "name": "Xan",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "true"
+                        },
+                        "Verifications": {
+                                "Demons": ["8"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["8", "14", "16"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        }
+                },
+                "polygon": {
+                        "name": "polygon",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "true"
+                        },
+                        "Verifications": {
+                                "Demons": ["64"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["64"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        }
+                },
+                "Muscovici": {
+                        "name": "Muscovici",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "true",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": ["2"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["2"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        }
+                },
+                "Renbee": {
+                        "name": "Renbee",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["2"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        }
+                },
+                "Kaeser": {
+                        "name": "Kaeser",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["71"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        }
+                },
+                "XDarkObsidianX": {
+                        "name": "XDarkObsidianX",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": ["6"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["6"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        }
+                },
+                "solituditary": {
+                        "name": "solituditary",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "true"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["162", "163", "164", "182"]
+                        },
+                        "Completions": {
+                                "Demons": ["6", "14"],
+                                "Platformers": ["69"],
+                                "Challenges": ["162", "163", "164", "182"]
+                        }
+                },
+                "zimperbutnew": {
+                        "name": "zimperbutnew",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": ["14", "16"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["14", "16"],
+                                "Platformers": [""],
+                                "Challenges": ["144", "137"]
+                        }
+                },
+                "Venparai": {
+                        "name": "Venparai",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": ["39"],
+                                "Challenges": [""]
+                        }
+                },
+                "bingo": {
+                        "name": "bingo",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "true"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": ["39", "69"],
+                                "Challenges": [""]
+                        }
+                },
+                "seabeg": {
+                        "name": "seabeg",
+                        "Profile": {
+                                "Dev": "true",
+                                "Mod": "true",
+                                "Top": "true"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["136", "137", "174"]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": ["69"],
+                                "Challenges": ["136", "137", "107", "174"]
+                        }
+                },
+                "waffles": {
+                        "name": "waffles",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "true"
+                        },
+                        "Verifications": {
+                                "Demons": ["88", "90", "91", "93"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": ["88", "90", "91", "93"],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        }
+                },
+                "Terminal Soul": {
+                        "name": "Terminal Soul",
+                        "Profile": {
+                                "Dev": "true",
+                                "Mod": "true",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": ["39", "69"],
+                                "Challenges": [""]
+                        }
+                },
+                "Bart_s0": {
+                        "name": "Bart_s0",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["147", "154"]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["107", "144", "147", "152", "154", "162", "163", "164", "168"]
+                        }
+                },
+                "elektrick": {
+                        "name": "elektrick",
+                        "Profile": {
+                                "Dev": "true",
+                                "Mod": "true",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["107", "141", "144", "152", "168", "189"]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["107", "137", "141", "144", "152", "164", "168", "182", "189"]
+                        }
+                },
+                "solxyz": {
+                        "name": "solxyz",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["152", "162"]
+                        }
+                },
+                "SeaCarrrot": {
+                        "name": "SeaCarrrot",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": [""]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["154"]
+                        }
+                },
+                "nano": {
+                        "name": "nano",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["175"]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["175"]
+                        }
+                },
+                "Chris": {
+                        "name": "Chris",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["176", "177", "179"]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": [
+                                        "107", 
+                                        "136", 
+                                        "137", 
+                                        "141", 
+                                        "144", 
+                                        "147", 
+                                        "152", 
+                                        "154", 
+                                        "159", 
+                                        "162", 
+                                        "163", 
+                                        "164", 
+                                        "168", 
+                                        "176", 
+                                        "177", 
+                                        "179"
+                                ]
+                        }
+                },
+                "lie317": {
+                        "name": "lie317",
+                        "Profile": {
+                                "Dev": "false",
+                                "Mod": "false",
+                                "Top": "false"
+                        },
+                        "Verifications": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["181"]
+                        },
+                        "Completions": {
+                                "Demons": [""],
+                                "Platformers": [""],
+                                "Challenges": ["181"]
+                        }
+                }
+        },
+        "Demons": {
+                "2": {
+                        "name": "Chaos Fanta",
+                        "creator": "Muscovici",
+                        "verifier": "Muscovici",
+                        "rank": "9",
+                        "difficulty": "Hard Demon",
+                        "id": "2",
+                        "videoId": ""
+                },
+                "3": {
+                        "name": "Code Red",
+                        "creator": "litlec",
+                        "verifier": "litlec",
+                        "rank": "12",
+                        "difficulty": "Medium Demon",
+                        "id": "3",
+                        "videoId": ""
+                },
+                "6": {
+                        "name": "XxX Dark Step Cd XxX",
+                        "creator": "XDarkObsidianX",
+                        "verifier": "XDarkObsidianX",
+                        "rank": "13",
+                        "difficulty": "Medium Demon",
+                        "id": "6",
+                        "videoId": ""
+                },
+                "8": {
+                        "name": "Flareon 136",
+                        "creator": "Xan",
+                        "verifier": "Xan",
+                        "rank": "6",
+                        "difficulty": "Hard Demon",
+                        "id": "8",
+                        "videoId": ""
+                },
+                "14": {
+                        "name": "Fishy shinanigans",
+                        "creator": "zimperbutnew",
+                        "verifier": "zimperbutnew",
+                        "rank": "16",
+                        "difficulty": "Easy Demon",
+                        "id": "14",
+                        "videoId": ""
+                },
+                "16": {
+                        "name": "Club Step",
+                        "creator": "zimperbutnew",
+                        "verifier": "zimperbutnew",
+                        "rank": "17",
+                        "difficulty": "Easy Demon",
+                        "id": "16",
+                        "videoId": ""
+                },
+                "33": {
+                        "name": "Back on Demoness",
+                        "creator": "litlec",
+                        "verifier": "litlec",
+                        "rank": "3",
+                        "difficulty": "Insane Demon",
+                        "id": "33",
+                        "videoId": ""
+                },
+                "59": {
+                        "name": "Precode",
+                        "creator": "litlec",
+                        "verifier": "litlec",
+                        "rank": "14",
+                        "difficulty": "Medium Demon",
+                        "id": "59",
+                        "videoId": ""
+                },
+                "64": {
+                        "name": "element 15 P",
+                        "creator": "polygon",
+                        "verifier": "polygon",
+                        "rank": "7",
+                        "difficulty": "Hard Demon",
+                        "id": "64",
+                        "videoId": ""
+                },
+                "71": {
+                        "name": "Circle after Circle",
+                        "creator": "xRiver007",
+                        "verifier": "xRiver007",
+                        "rank": "10",
+                        "difficulty": "Medium Demon",
+                        "id": "71",
+                        "videoId": "YtgWSf6m4DY"
+                },
+                "75": {
+                        "name": "every sea",
+                        "creator": "Muscovici",
+                        "verifier": "xRiver007",
+                        "rank": "1",
+                        "difficulty": "Extreme Demon",
+                        "id": "75",
+                        "videoId": ""
+                },
+                "81": {
+                        "name": "Cord Cutter",
+                        "creator": "xRiver007",
+                        "verifier": "xRiver007",
+                        "rank": "11",
+                        "difficulty": "Medium Demon",
+                        "id": "81",
+                        "videoId": "_P3ITx7uxNg"
+                },
+                "88": {
+                        "name": "Cluttersmalls",
+                        "creator": "waffles",
+                        "verifier": "waffles",
+                        "rank": "21",
+                        "difficulty": "Easy Demon",
+                        "id": "88",
+                        "videoId": ""
+                },
+                "90": {
+                        "name": "Mosaic II",
+                        "creator": "waffles",
+                        "verifier": "waffles",
+                        "rank": "15",
+                        "difficulty": "Easy Demon",
+                        "id": "90",
+                        "videoId": ""
+                },
+                "91": {
+                        "name": "Green Autism",
+                        "creator": "waffles",
+                        "verifier": "waffles",
+                        "rank": "18",
+                        "difficulty": "Easy Demon",
+                        "id": "91",
+                        "videoId": ""
+                },
+                "93": {
+                        "name": "QUOWONO",
+                        "creator": "waffles",
+                        "verifier": "waffles",
+                        "rank": "8",
+                        "difficulty": "Hard Demon",
+                        "id": "93",
+                        "videoId": ""
+                },
+                "95": {
+                        "name": "Digitalized",
+                        "creator": "litlec",
+                        "verifier": "litlec",
+                        "rank": "20",
+                        "difficulty": "Easy Demon",
+                        "id": "95",
+                        "videoId": ""
+                },
+                "96": {
+                        "name": "ship and ball",
+                        "creator": "polygon",
+                        "verifier": "polygon",
+                        "rank": "5",
+                        "difficulty": "Hard Demon",
+                        "id": "96",
+                        "videoId": ""
+                },
+                "118": {
+                        "name": "Femboy  Circles",
+                        "creator": "Barts0",
+                        "verifier": "Niko",
+                        "rank": "2",
+                        "difficulty": "Extreme Demon",
+                        "id": "118",
+                        "videoId": "c9evKDSbYbI"
+                },
+                "122": {
+                        "name": "Secret Box",
+                        "creator": "xRiver007",
+                        "verifier": "xRiver007",
+                        "rank": "4",
+                        "difficulty": "Insane Demon",
+                        "id": "122",
+                        "videoId": "DbZwUbo91As"
+                },
+                "128": {
+                        "name": "infernoplex",
+                        "creator": "briny",
+                        "verifier": "briny",
+                        "rank": "19",
+                        "difficulty": "Easy Demon",
+                        "id": "128",
+                        "videoId": ""
+                }
+        },
+        "Platformers": {
+                "39": {
+                        "name": "Perseverance",
+                        "creator": "xRiver007",
+                        "verifier": "xRiver007",
+                        "rank": "1",
+                        "difficulty": "Extreme Demon",
+                        "id": "39",
+                        "videoId": ""
+                },
+                "69": {
+                        "name": "Fun Rooms",
+                        "creator": "litlec",
+                        "verifier": "litlec",
+                        "rank": "2",
+                        "difficulty": "Easy Demon",
+                        "id": "69",
+                        "videoId": ""
+                },
+                "110": {
+                        "name": "I wanna be electrom",
+                        "creator": "nanoalt",
+                        "verifier": "nanoalt",
+                        "rank": "3",
+                        "difficulty": "Easy Demon",
+                        "id": "110",
+                        "videoId": ""
+                }
+        },
+        "Challenges": {
+                "107": {
+                        "name": "river challenge",
+                        "creator": "elektrick",
+                        "verifier": "elektrick",
+                        "rank": "10",
+                        "difficulty": "",
+                        "id": "107",
+                        "videoId": "3X73pJmT5oM"
+                },
+                "136": {
+                        "name": "gameplay not here",
+                        "creator": "seabeg",
+                        "verifier": "seabeg",
+                        "rank": "13",
+                        "difficulty": "",
+                        "id": "136",
+                        "videoId": ""
+                },
+                "137": {
+                        "name": "terminalsoul challenge",
+                        "creator": "seabeg",
+                        "verifier": "seabeg",
+                        "rank": "12",
+                        "difficulty": "",
+                        "id": "137",
+                        "videoId": "61RzW-faFTc"
+                },
+                "141": {
+                        "name": "bird bone",
+                        "creator": "elektrick",
+                        "verifier": "elektrick",
+                        "rank": "18",
+                        "difficulty": "",
+                        "id": "141",
+                        "videoId": ""
+                },
+                "144": {
+                        "name": "she said",
+                        "creator": "elektrick",
+                        "verifier": "elektrick",
+                        "rank": "11",
+                        "difficulty": "",
+                        "id": "144",
+                        "videoId": "yawT888xYkM"
+                },
+                "147": {
+                        "name": "shards of ice",
+                        "creator": "elektrick",
+                        "verifier": "Barts0",
+                        "rank": "8",
+                        "difficulty": "",
+                        "id": "147",
+                        "videoId": ""
+                },
+                "152": {
+                        "name": "4 second hell",
+                        "creator": "elektrick",
+                        "verifier": "elektrick",
+                        "rank": "16",
+                        "difficulty": "",
+                        "id": "152",
+                        "videoId": "3snynnOHIxo"
+                },
+                "154": {
+                        "name": "bartscapes",
+                        "creator": "Barts0",
+                        "verifier": "Barts0",
+                        "rank": "7",
+                        "difficulty": "",
+                        "id": "154",
+                        "videoId": ""
+                },
+                "159": {
+                        "name": "slh x2 db 2",
+                        "creator": "Barts0",
+                        "verifier": "DashVibe",
+                        "rank": "1",
+                        "difficulty": "",
+                        "id": "159",
+                        "videoId": ""
+                },
+                "162": {
+                        "name": "wVe wVe",
+                        "creator": "solituditary",
+                        "verifier": "solituditary",
+                        "rank": "20",
+                        "difficulty": "",
+                        "id": "162",
+                        "videoId": ""
+                },
+                "163": {
+                        "name": "let him uh ok",
+                        "creator": "solituditary",
+                        "verifier": "solituditary",
+                        "rank": "19",
+                        "difficulty": "",
+                        "id": "163",
+                        "videoId": ""
+                },
+                "164": {
+                        "name": "third rendition",
+                        "creator": "solituditary",
+                        "verifier": "solituditary",
+                        "rank": "17",
+                        "difficulty": "",
+                        "id": "164",
+                        "videoId": ""
+                },
+                "168": {
+                        "name": "evasium bath",
+                        "creator": "elektrick",
+                        "verifier": "elektrick",
+                        "rank": "15",
+                        "difficulty": "",
+                        "id": "168",
+                        "videoId": ""
+                },
+                "174": {
+                        "name": "gnh in hell",
+                        "creator": "seabeg",
+                        "verifier": "seabeg",
+                        "rank": "5",
+                        "difficulty": "",
+                        "id": "174",
+                        "videoId": ""
+                },
+                "175": {
+                        "name": "RARE IS HIGH",
+                        "creator": "nano",
+                        "verifier": "nano",
+                        "rank": "9",
+                        "difficulty": "",
+                        "id": "175",
+                        "videoId": ""
+                },
+                "176": {
+                        "name": "yea thats",
+                        "creator": "Chris",
+                        "verifier": "Chris",
+                        "rank": "3",
+                        "difficulty": "",
+                        "id": "176",
+                        "videoId": ""
+                },
+                "177": {
+                        "name": "but now",
+                        "creator": "Chris",
+                        "verifier": "Chris",
+                        "rank": "4",
+                        "difficulty": "",
+                        "id": "177",
+                        "videoId": ""
+                },
+                "179": {
+                        "name": "ok",
+                        "creator": "Chris",
+                        "verifier": "Chris",
+                        "rank": "6",
+                        "difficulty": "",
+                        "id": "179",
+                        "videoId": ""
+                },
+                "181": {
+                        "name": "beliefs",
+                        "creator": "lie317",
+                        "verifier": "lie317",
+                        "rank": "2",
+                        "difficulty": "",
+                        "id": "181",
+                        "videoId": ""
+                },
+                "182": {
+                        "name": "colorway",
+                        "creator": "solituditary",
+                        "verifier": "solituditary",
+                        "rank": "21",
+                        "difficulty": "",
+                        "id": "182",
+                        "videoId": ""
+                },
+                "189": {
+                        "name": "eden",
+                        "creator": "elektrick",
+                        "verifier": "elektrick",
+                        "rank": "14",
+                        "difficulty": "",
+                        "id": "189",
+                        "videoId": ""
+                }
+        },
+        "Points": [
+                350, 340, 331, 323, 310, 305, 300, 295, 290, 285, 281, 277, 273,
+                269, 265, 261, 258, 255, 252, 249, 246, 243, 240, 237, 234, 231,
+                228, 225, 222, 219, 216, 213, 210, 207, 204, 201, 198, 195, 192,
+                189, 186, 183, 180, 177, 174, 171, 168, 165, 162, 159, 156, 153,
+                150, 147, 144, 142, 140, 138, 136, 134, 132, 130, 128, 126, 124,
+                122, 120, 118, 116, 114, 112, 110, 108, 106, 104, 102, 100, 98,
+                96, 94, 92, 90, 88, 86, 84, 82, 80, 78, 76, 74, 72, 70, 68, 66,
+                64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49,
+                48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33,
+                32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17,
+                16, 15, 14, 13, 12, 11, 10
+        ]
+}
