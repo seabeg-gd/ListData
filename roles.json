@@ -1,0 +1,5 @@
+[
+        { "role": "Dev", "idPrefix": "badge-developer" },
+        { "role": "Mod", "idPrefix": "badge-moderator" },
+        { "role": "Top", "idPrefix": "badge-top-player" }
+]
